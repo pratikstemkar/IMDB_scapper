@@ -13,3 +13,4 @@ Scrap IMDB movies using [BeautifulSoup](https://www.crummy.com/software/Beautifu
 * [PRATIK](https://github.com/pratikstemkar)
 
 Made with :heart: by [PRATIK](https://github.com/pratikstemkar).
+
